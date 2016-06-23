@@ -1,4 +1,4 @@
-package com.suggee.ablibrary;
+package com.suggee.sample;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

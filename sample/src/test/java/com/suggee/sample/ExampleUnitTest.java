@@ -1,4 +1,4 @@
-package com.suggee.ablibrary;
+package com.suggee.sample;
 
 import org.junit.Test;
 
